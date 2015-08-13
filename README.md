@@ -10,4 +10,4 @@ The Internet Archive has [an incomplete archive of them][3].
 
 [1]: https://en.wikipedia.org/wiki/New_Beverly_Cinema
 [2]: http://www.kcrw.com/news-culture/shows/the-treatment/quentin-tarantino-2014-10-01
-[3]: http://web.archive.org/web/*/http://www.thenewbev.com/
+[3]: http://web.archive.org/web/*/http://www.thenewbev.com/calendar/
