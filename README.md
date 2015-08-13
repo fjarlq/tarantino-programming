@@ -8,6 +8,10 @@ These calendar images are posted monthly to
 http://www.thenewbev.com/calendar/ but are not archived anywhere.
 The Internet Archive has [an incomplete archive of them][3].
 
+The [Quentin Tarantino Film Festival][4] has also shown many films
+from Tarantino's collection.
+
 [1]: https://en.wikipedia.org/wiki/New_Beverly_Cinema
 [2]: http://www.kcrw.com/news-culture/shows/the-treatment/quentin-tarantino-2014-10-01
 [3]: http://web.archive.org/web/*/http://www.thenewbev.com/calendar/
+[4]: https://en.wikipedia.org/wiki/Quentin_Tarantino_Film_Festival
